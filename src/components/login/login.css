@@ -1,0 +1,33 @@
+
+.logincontainer{
+    max-width: 400px;
+    margin: 30px auto;  
+    padding: 20px;
+}
+
+.formwrap{
+    background: rgb(247, 244, 240);
+    padding: 15px 25px;
+    border-radius: 10px;
+}
+.loginerrormessage {
+    color: red;
+}
+
+.formwrap button{
+    background: #49c1a2;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.formwrap button:hover{
+    background: #37a08e;
+}
+
+
